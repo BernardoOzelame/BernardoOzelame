@@ -9,7 +9,7 @@ em projetos desafiadores<br><br><br><b>Estou aberto a oportunidades e colaboraç
 <br><br>
 
 # 🌐 Redes sociais
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beernardoz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardo-ozelame-spoltti-18b475296) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beernardoz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernardoozelame) 
 
 <br><br>
 

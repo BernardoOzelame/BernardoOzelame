@@ -1,17 +1,11 @@
 ## 💫 Sobre mim
-Olá! Sou <b>Bernardo Ozelame Spoltti</b>, estudante do curso de <b>Técnico em Informática para Internet</b> no IFRS - <i>Campus</i> Bento Gonçalves. Sou apaixonado por <b>programação</b> e estou em busca de 
-oportunidades de estágios para aplicar meus conhecimentos e aprender ainda mais.
+Olá! Sou <b>Bernardo Ozelame Spoltti</b>, estudante do curso de <b>Técnico em Informática para Internet</b> no IFRS - <i>Campus</i> Bento Gonçalves. Atualmente estou trabalhando como estagiário na empresa <i>Bling</i>!
 
 <br><br>
 
 ## <b>⚙️ Habilidades técnicas</b><br>
 <b>- Linguagens:</b> HTML, CSS, JavaScript e PHP<br>
-<b>- Ferramentas:</b> Visual Studio Code, Git, MySQL, Apache e Google Drive
-
-<br><br>
-
-## <b>🔴 Interesses profissionais</b><br>
-Estou interessado em desenvolvimento web e estou ansioso para contribuir em projetos desafiadores. <b>Estou aberto a oportunidades e colaborações!</b>
+<b>- Ferramentas:</b> Visual Studio Code, Git, MySQL, Apache, Google Drive, Azure DevOps
 
 <br><br>
 

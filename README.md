@@ -5,7 +5,7 @@ Atualmente estou em busca de emprego no cargo de desenvolvedor web júnior onde 
 <br><br>
 
 ## <b>⚙️ Habilidades técnicas</b><br>
-<b>- Linguagens:</b> HTML, CSS, JavaScript e PHP<br>
+<b>- Linguagens:</b> HTML, CSS, JavaScript, PHP (e Laravel) e Vue.js<br>
 <b>- Ferramentas:</b> Visual Studio Code, Git, MySQL, Apache, Google Drive, Azure DevOps
 
 <br><br>

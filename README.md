@@ -1,5 +1,6 @@
 ## 💫 Sobre mim
-Olá! Sou <b>Bernardo Ozelame Spoltti</b>, estudante do curso de <b>Técnico em Informática para Internet</b> no IFRS - <i>Campus</i> Bento Gonçalves. Atualmente estou trabalhando como estagiário na empresa <i>Bling</i>!
+Olá! Sou <b>Bernardo Ozelame Spoltti</b>, formado no Curso Técnico em Informática para Internet, realizado no IFRS-BG.
+Atualmente estou em busca de emprego no cargo de desenvolvedor web júnior onde posso colocar em prática tudo o que aprendi até agora, além de continuar me desenvolvendo como profissional. Tenho interesse em aprender novas tecnologias, aprimorar minhas habilidades de programação e colaborar em projetos de desenvolvimento web desafiadores.
 
 <br><br>
 

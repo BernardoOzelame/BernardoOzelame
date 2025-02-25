@@ -1,6 +1,6 @@
 ## 💫 Sobre mim
 Olá! Sou <b>Bernardo Ozelame Spoltti</b>, formado no Curso Técnico em Informática para Internet, realizado no IFRS-BG.
-Atualmente estou em busca de emprego no cargo de desenvolvedor web júnior onde posso colocar em prática tudo o que aprendi até agora, além de continuar me desenvolvendo como profissional. Tenho interesse em aprender novas tecnologias, aprimorar minhas habilidades de programação e colaborar em projetos de desenvolvimento web desafiadores.
+Atualmente, estou <b>cursando Análise e Desenvolvimento de Sistemas</b>, também no IFRS, enquanto desenvolvo minha carreira profissional na empresa Eccosys.
 
 <br><br>
 
